@@ -1,0 +1,6 @@
+{
+  "name": "대학생 과제·시험 D-day 알리미",
+  "description": "대학생을 위한 똑똑한 과제 및 시험 D-day 알리미. 공지문 자동 추출 AI, D-day 색상 알림, 주간 캘린더, 과목별 필터 및 완료 관리 기능 제공.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
